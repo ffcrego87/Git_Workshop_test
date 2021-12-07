@@ -1,7 +1,7 @@
 
 # Git Workshop
 
-
+This Repo belongs to Francisco Rego
 
 ![Image of Project](images/cheat_sheet.png)
 
